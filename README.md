@@ -8,6 +8,8 @@
  Asignatura Adquisición y Transformación de Datos
 </h1>
 
+ <img src="surfera.jpg" alt="Simbolo"> 
+
 <body>
 
 
