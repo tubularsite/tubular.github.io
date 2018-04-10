@@ -1,13 +1,14 @@
 
 <html>
-<style>
+<head>
+  <style>
   body{
     background-color: black;
   }
   
 <\style>
-<head>
 <title>ETL grográfica</title>
+
 </head>
 
 
