@@ -1,12 +1,6 @@
 
 <html>
 <head>
-  <style>
-  body{
-    background-color: black;
-  }
-  
-<\style>
 <title>ETL grográfica</title>
 
 </head>
@@ -18,7 +12,7 @@
 <body>
   
 <h1>
-  <font color="white"> Madrid is the place to be</font>
+  <font color="blue"> Madrid is the place to be</font>
 </h1>
 
 <p>
