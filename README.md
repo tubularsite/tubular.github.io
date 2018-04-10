@@ -21,7 +21,7 @@
 </p>
 
 <p>
- Gabi, rules!!!
+ Gabi and Boris, rule!!!
 </p>
 
 </body>
