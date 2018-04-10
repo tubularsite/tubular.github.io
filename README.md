@@ -8,10 +8,10 @@
 <img src="tubularsite.github.io/logo.png" alt="logo_tubular" style="width: 50%; height: 50%"> 
 <img src="tubularsite.github.io/surfera.png" alt="logo_grupo" style="width: 15%; height: 15%"> 
 
-<body>
+<body bgcolor="black" >
   
 <h1>
-  Madrid is the place to be
+  <font color="white"> Madrid is the place to be</font>
 </h1>
 
 <p>
