@@ -8,8 +8,8 @@
   Asignatura Adquisición y Transformación de Datos
  </h1>
 
- <img src="tubularsite.github.io/Marcacolorpositiva.png" alt="Simbolo"> 
- <img src="tubularsite.github.io/surfera.png" alt="Simbolo"> 
+ <img src="tubularsite.github.io/Marcacolorpositiva.png" alt="logo_grupo" style="width: 10%; height: 10%"> 
+ <img src="tubularsite.github.io/surfera.png" alt="logo_comillas" style="width: 20%; height: 20%"> 
 
 <body>
 
