@@ -7,7 +7,7 @@
 
 
 <img src="tubularsite.github.io/logo.png" alt="logo_tubular" style="width: 50%; height: 50%"> 
-<img src="tubularsite.github.io/surfera.png" alt="logo_grupo" style="width: 15%; height: 15%"> 
+
 
 <body>
   
@@ -16,7 +16,7 @@
 </h1>
 
 <p>
- Take a look to our map with events in the incoming months. <br> 
+ Take a look to our map with events in the incoming months. <br><br> 
     - Dots is location <br>
     - 5 minute walking distance <br>
     - Description of the  event <br>
