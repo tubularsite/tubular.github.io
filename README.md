@@ -16,10 +16,10 @@
 </h1>
 
 <p>
- Take a look to our map with events in the incoming months. 
-    - Dots is location
-    - 5 minute walking distance
-    - Description of the  event
+ Take a look to our map with events in the incoming months. <br> 
+    - Dots is location <br>
+    - 5 minute walking distance <br>
+    - Description of the  event <br>
 </p>
 
 </body>
