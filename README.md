@@ -16,7 +16,7 @@
   <font color="black"> Madrid is the place to be</font>
 </h1>
 
-<div>¿Vamos a Hacer Algún Proyecto?</div>
+<div color='red' size=60>¿Vamos a Hacer Algún Proyecto?</div>
 
 <p>
  Take a look to our map with events in the incoming months. <br><br> 
