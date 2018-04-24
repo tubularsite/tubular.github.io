@@ -9,14 +9,6 @@
 <img src="tubularsite.github.io/logo.png" alt="logo_tubular" style="width: 50%; height: 50%"> 
 
 
-<style>
-div.a {
-    font-size: 150px;
-}
-
-</style>
-
-
 
 <body>
   
@@ -24,7 +16,7 @@ div.a {
   <font color="black"> Madrid is the place to be</font>
 </h1>
 
-<div class="a">¿Vamos a Hacer Algún Proyecto?</div>
+<div>¿Vamos a Hacer Algún Proyecto?</div>
 
 <p>
  Take a look to our map with events in the incoming months. <br><br> 
