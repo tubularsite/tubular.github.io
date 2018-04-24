@@ -17,7 +17,7 @@
 </h1>
 
 <h2>
-  <font color="red" size=60> ¿Vamos a Hacer Algún Proyecto? </font>
+  <font color="red" size=40> ¿Vamos a Hacer Algún Proyecto? </font>
 </h2>
 
 <p>
