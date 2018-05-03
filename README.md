@@ -25,6 +25,7 @@
     - Dots is location <br>
     - 5 minute walking distance <br>
     - Description of the  event <br>
+    - And lots of fun
 </p>
 
 </body>
